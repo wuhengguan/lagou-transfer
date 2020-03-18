@@ -26,4 +26,5 @@ org.springframework.context.support.AbstractApplicationContext#refresh
 					org.springframework.beans.factory.support.DefaultSingletonBeanRegistry#addSingleton #把初始化完成的对象放到一级缓存 
 ```
 
-具体的过程时序图:
+#### 具体的过程时序图:
+![avatar](https://raw.githubusercontent.com/wuhengguan/lagou-transfer/master/spring%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
